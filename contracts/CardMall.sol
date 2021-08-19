@@ -84,7 +84,6 @@ contract CardMall {
     // 카드 구매
     function purchaseCard(string memory _name, uint256 _payQuantity)
         public
-        payable
         onlyBuyer
     {
         require(_payQuantity > 0, "invalid quantity");
