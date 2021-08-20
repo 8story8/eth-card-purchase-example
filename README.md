@@ -4,7 +4,7 @@ Ethereum Smart Contract를 활용한 카드 판매 프로젝트 예제입니다.
 | 환경 | 설명 |
 | ------ | ------ |
 | MacOS | OS |
-| Virtual Studio Code | IDE |
+| Visual Studio Code | IDE |
 | Node.js | Javascript Runtime, v8.9.4 or later |
 | Solidity | Ethereum Smart Contract Language, 0.8.7 |
 | Truffle | Solidity Framework |
