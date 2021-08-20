@@ -7,7 +7,7 @@ Ethereum Smart Contract를 활용한 카드 판매 프로젝트 예제입니다.
 | Visual Studio Code | IDE |
 | Node.js | Javascript Runtime, v8.9.4 or later |
 | Solidity | Ethereum Smart Contract Language, 0.8.7 |
-| Truffle | Solidity Framework |
+| Truffle | EVM Developemnt, Test Framework |
 | Ganache | Ethereum Test Blockchain(Optional) |
 ## Using Truffle Only
 - Visual Studio Code를 실행합니다.
