@@ -11,6 +11,7 @@ Ethereum Smart Contract를 활용한 카드 판매 프로젝트 예제입니다.
 | Ganache | Ethereum Test Blockchain(Optional) |
 ## Using Truffle Only
 - Visual Studio Code를 실행합니다.
+- (Visual Studio Code Marketplace에서 Solidity Extension을 설치합니다.)
 - Visual Studio Code에서 이 프로젝트를 엽니다.
 - Visual Studio Code 통합 터미널을 엽니다.
 - 통합 터미널에서 다음 명령어를 실행하여 테스트 노드를 실행합니다.
@@ -23,6 +24,7 @@ Ethereum Smart Contract를 활용한 카드 판매 프로젝트 예제입니다.
   ```
 ## Using Ganache
 - Visual Studio Code를 실행합니다.
+- (Visual Studio Code Marketplace에서 Solidity Extension을 설치합니다.)
 - Visual Studio Code에서 이 프로젝트를 엽니다.
 - Visual Studio Code 통합 터미널을 엽니다.
 - Ganache를 실행합니다.
